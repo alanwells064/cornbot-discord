@@ -825,4 +825,4 @@ async def break_check():
 
 
 # GOOOOO!
-client.run('MTEwNjQxMjU1NzQ1NzE4Mjc1MQ.GhPii7.VzVD9Wn21SH_sD7uep64AepJreWUDz6fL6dj6w')
+client.run('TOKEN_HERE')
